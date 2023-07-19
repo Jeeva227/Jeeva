@@ -10,5 +10,9 @@ System.out.println("Git branch");
 }
 public void gitalter() {
 	System.out.println("Git new");
+	
+}
+public void gitpull() {
+System.out.println("git Pull");
 }
 }
