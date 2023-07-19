@@ -6,5 +6,9 @@ public static void main(String[] args) {
 }
 public void git() {
 System.out.println("Git branch");
+
+}
+public void gitalter() {
+	System.out.println("Git new");
 }
 }
