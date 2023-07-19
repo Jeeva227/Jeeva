@@ -12,6 +12,9 @@ public void gitalter() {
 	System.out.println("Git new");
 	
 }
+public void gitNew() {
+	System.out.println("Git message");
+}
 public void gitpull() {
 System.out.println("git Pull");
 }
